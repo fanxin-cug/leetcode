@@ -1,2 +1,2 @@
 # leetcode
-leetcode exercise with python
+leetcode exercise with C++ & Python
